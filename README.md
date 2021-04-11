@@ -5,7 +5,7 @@ The highest scrore is recorded and the users name is taken as well.
 
 ![Entry](https://user-images.githubusercontent.com/74729605/114315013-b864c980-9b1a-11eb-99c4-77d2ae11e375.jpeg)
 
-##
+## Working
 -  User has to enter his name first
 -  The quiz starts, with a progress bar
 -  He/ She gets a flag image, with 4 options in it
